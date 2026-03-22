@@ -1,4 +1,4 @@
-# Spam Email Classification using Machine Learning
+# Spam Text/E-mail Classification using Machine Learning
 
 This project implements a spam detection system using Natural Language Processing (NLP) and Machine Learning.
 
